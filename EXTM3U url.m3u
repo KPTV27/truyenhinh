@@ -1,46 +1,37 @@
 ﻿#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml, https://hoiquan.click/EPG-VN"
 
 
-#Thông Báo: Nhóm vừa bị Phá Hoại, rất Xin Lỗi mọi người. vui lòng vào nhóm lại với Link mới.
-
-
-#Đây là kênh tổng hợp của các kênh TV iptv trên mạng xã hội, Admin không phải tác giả của những kênh này, do đó không chịu trách nhiệm về bất cứ điều gì dưới mọi hình thức
-
-#Tuyệt đối 100% không thu phí hay có bất kì hình thức thu tiền của mọi người
-
-#Link nhóm Zalo Hội Quán CLICK: https://zalo.me/g/iytapv300
-
 #EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/672px-VTV1_logo_2013_final.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/672px-VTV1_logo_2013_final.svg.png",VTV1
 https://xem.hoiquan.Click/CoBan/vtv1-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv2-hd/KenhCoBan",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv2-hd/KenhCoBan",VTV2
 https://xem.hoiquan.Click/CoBan/vtv2-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv2-hd-thu-nghiem-quic" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv2-hd-thu-nghiem-quic/KenhCoBan",VTV2 HD Thử nghiệm Quic
+#EXTINF:-1 tvg-id="vtv2-hd-thu-nghiem-quic" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv2-hd-thu-nghiem-quic/KenhCoBan",VTV2 Thử nghiệm Quic
 https://xem.hoiquan.Click/CoBan/vtv2-hd-thu-nghiem-quic/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv3-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv3-hd/KenhCoBan",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv3-hd/KenhCoBan",VTV3
 https://xem.hoiquan.Click/CoBan/vtv3-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv3-llc-thu-nghiem" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv3-llc-thu-nghiem/KenhCoBan",VTV3 LLC Thử nghiệm
 https://xem.hoiquan.Click/CoBan/vtv3-llc-thu-nghiem/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv5-llc-thu-nghiem" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-llc-thu-nghiem/KenhCoBan",VTV5 LLC Thử nghiệm
+#EXTINF:-1 tvg-id="vtv5-llc-thu-nghiem" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-llc-thu-nghiem/KenhCoBan",VTV5 LLC Thử nghiệm (lỗi)
 https://xem.hoiquan.Click/CoBan/vtv5-llc-thu-nghiem/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv4-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv4-hd/KenhCoBan",VTV4 HD
+#EXTINF:-1 tvg-id="vtv4-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv4-hd/KenhCoBan",VTV4
 https://xem.hoiquan.Click/CoBan/vtv4-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv5-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-hd/KenhCoBan",VTV5 HD
+#EXTINF:-1 tvg-id="vtv5-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-hd/KenhCoBan",VTV5
 https://xem.hoiquan.Click/CoBan/vtv5-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv5-tay-nguyen" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-tay-nguyen/KenhCoBan",VTV5 Tây Nguyên
 https://xem.hoiquan.Click/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv5-tay-nam-bo" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-tay-nam-bo/KenhCoBan",VTV5 Tây Nam Bộ
 https://xem.hoiquan.Click/CoBan/vtv5-tay-nam-bo/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv-can-tho" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv-can-tho/KenhCoBan",VTV Cần Thơ HD
+#EXTINF:-1 tvg-id="vtv-can-tho" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv-can-tho/KenhCoBan",VTV Cần Thơ
 https://xem.hoiquan.Click/CoBan/vtv-can-tho/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv7-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv7-hd/KenhCoBan",VTV7 HD
+#EXTINF:-1 tvg-id="vtv7-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv7-hd/KenhCoBan",VTV7
 https://xem.hoiquan.Click/CoBan/vtv7-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv8-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv8-hd/KenhCoBan",VTV8 HD
+#EXTINF:-1 tvg-id="vtv8-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv8-hd/KenhCoBan",VTV8
 https://xem.hoiquan.Click/CoBan/vtv8-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv9-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv9-hd/KenhCoBan",VTV9 HD
+#EXTINF:-1 tvg-id="vtv9-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv9-hd/KenhCoBan",VTV9
 https://xem.hoiquan.Click/CoBan/vtv9-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="antv" group-title="Kênh thiết yếu" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/antv/KenhCoBan",ANTV
 https://xem.hoiquan.Click/CoBan/antv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="qpvn-hd" group-title="Kênh thiết yếu" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qpvn-hd/KenhCoBan",QPVN HD
+#EXTINF:-1 tvg-id="qpvn-hd" group-title="Kênh thiết yếu" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qpvn-hd/KenhCoBan",QPVN
 https://xem.hoiquan.Click/CoBan/qpvn-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-1-vie-giai-tri-hd/KenhCoBan",VTVcab 1 - Vie Giải Trí HD
 https://xem.hoiquan.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -76,7 +67,7 @@ https://xem.hoiquan.Click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="o2tv" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/o2tv/KenhCoBan",O2TV
 https://xem.hoiquan.Click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="an-vien-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/an-vien-hd/KenhCoBan",An Viên HD
+#EXTINF:-1 tvg-id="an-vien-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/an-vien-hd/KenhCoBan",An Viên - BTV9 HD
 https://xem.hoiquan.Click/CoBan/an-vien-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="KCTV" group-title="Kênh quốc tế" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/800px-Logo_of_the_Korean_Central_Television.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/800px-Logo_of_the_Korean_Central_Television.svg.png",KCTV SD
 https://tv.nknews.org/tvdash/stream.mpd
@@ -138,9 +129,9 @@ https://xem.hoiquan.Click/CoBan/htv2/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan/htv3/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv4/KenhCoBan",HTV4
 https://xem.hoiquan.Click/CoBan/htv4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv7-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv7-hd/KenhCoBan",HTV7 HD
+#EXTINF:-1 tvg-id="htv7-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv7-hd/KenhCoBan",HTV7
 https://xem.hoiquan.Click/CoBan/htv7-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv9-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv9-hd/KenhCoBan",HTV9 HD
+#EXTINF:-1 tvg-id="htv9-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv9-hd/KenhCoBan",HTV9
 https://xem.hoiquan.Click/CoBan/htv9-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htv-the-thao" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv-the-thao/KenhCoBan",HTV Thể Thao
 https://xem.hoiquan.Click/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
@@ -1435,5 +1426,6 @@ https://xem.hoiquan.Click/HuuVinh/MaxSport4HD/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="SporTV2" group-title="🔁 HuuVinh.THỂ THAO QUỐC TẾ" tvg-logo="https://xem.hoiquan.click/Logo/SporTV2/DoiTac-HuuVinh",SporTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://xem.hoiquan.Click/HuuVinh/SporTV2/DoiTacDongGop.m3u8
+
 
 
