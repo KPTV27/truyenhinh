@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml, https://hoiquan.click/EPG-VN"
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml, https://hoiquan.click/EPG-VN"
 
 
 #EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/672px-VTV1_logo_2013_final.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/672px-VTV1_logo_2013_final.svg.png",VTV1
@@ -175,7 +175,7 @@ https://xem.hoiquan.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan/bac-giang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/youtv/KenhCoBan",YouTV
 https://xem.hoiquan.Click/CoBan/youtv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="bac-kan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-kan/KenhCoBan",Bắc Kạn
+#EXTINF:-1 tvg-id="bac-kan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-kan/KenhCoBan",Thái Nguyên
 https://xem.hoiquan.Click/CoBan/bac-kan/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hitv/KenhCoBan",HITV
 https://xem.hoiquan.Click/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
@@ -183,17 +183,17 @@ https://xem.hoiquan.Click/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan/bac-lieu/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="bac-ninh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-ninh/KenhCoBan",Bắc Ninh
 https://xem.hoiquan.Click/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ben-tre" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ben-tre/KenhCoBan",Bến Tre
+#EXTINF:-1 tvg-id="ben-tre" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ben-tre/KenhCoBan",THVL2 luồng Bến Tre
 https://xem.hoiquan.Click/CoBan/ben-tre/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="binh-dinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-dinh/KenhCoBan",Bình Định
+#EXTINF:-1 tvg-id="binh-dinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-dinh/KenhCoBan",Gia Lai luồng Bình Định
 https://xem.hoiquan.Click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="btv1" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/btv1/KenhCoBan",BTV1
 https://xem.hoiquan.Click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="btv2" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/btv2/KenhCoBan",BTV2
 https://xem.hoiquan.Click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="binh-phuoc" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-phuoc/KenhCoBan",Bình Phước
+#EXTINF:-1 tvg-id="binh-phuoc" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-phuoc/KenhCoBan",Đồng Nai 1
 https://xem.hoiquan.Click/CoBan/binh-phuoc/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="binh-thuan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-thuan/KenhCoBan",Bình Thuận
+#EXTINF:-1 tvg-id="binh-thuan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-thuan/KenhCoBan",Lâm Đồng 2
 https://xem.hoiquan.Click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ca-mau" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ca-mau/KenhCoBan",Cà Mau
 https://xem.hoiquan.Click/CoBan/ca-mau/TuyetDoiKhongKinhDoanh.m3u8
@@ -205,9 +205,9 @@ https://xem.hoiquan.Click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan/soc-trang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="cao-bang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/cao-bang/KenhCoBan",Cao Bằng
 https://xem.hoiquan.Click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="da-nang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/da-nang/KenhCoBan",Đà Nẵng
+#EXTINF:-1 tvg-id="da-nang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/da-nang/KenhCoBan",Đà Nẵng 1
 https://xem.hoiquan.Click/CoBan/da-nang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="dac-nong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dac-nong/KenhCoBan",Đắc Nông
+#EXTINF:-1 tvg-id="dac-nong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dac-nong/KenhCoBan",Lâm Đồng 3
 https://xem.hoiquan.Click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dak-lak" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dak-lak/KenhCoBan",Đắk Lắk
 https://xem.hoiquan.Click/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
@@ -1426,6 +1426,5 @@ https://xem.hoiquan.Click/HuuVinh/MaxSport4HD/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="SporTV2" group-title="🔁 HuuVinh.THỂ THAO QUỐC TẾ" tvg-logo="https://xem.hoiquan.click/Logo/SporTV2/DoiTac-HuuVinh",SporTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://xem.hoiquan.Click/HuuVinh/SporTV2/DoiTacDongGop.m3u8
-
 
 
