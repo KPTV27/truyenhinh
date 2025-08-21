@@ -10,7 +10,7 @@
 
 #Link nhóm Zalo Hội Quán CLICK: https://zalo.me/g/iytapv300
 
-#EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv1-hd/KenhCoBan",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/672px-VTV1_logo_2013_final.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/672px-VTV1_logo_2013_final.svg.png",VTV1
 https://xem.hoiquan.Click/CoBan/vtv1-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv2-hd/KenhCoBan",VTV2 HD
 https://xem.hoiquan.Click/CoBan/vtv2-hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -1435,4 +1435,5 @@ https://xem.hoiquan.Click/HuuVinh/MaxSport4HD/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="SporTV2" group-title="🔁 HuuVinh.THỂ THAO QUỐC TẾ" tvg-logo="https://xem.hoiquan.click/Logo/SporTV2/DoiTac-HuuVinh",SporTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://xem.hoiquan.Click/HuuVinh/SporTV2/DoiTacDongGop.m3u8
+
 
