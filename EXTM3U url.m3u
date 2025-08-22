@@ -70,7 +70,7 @@ https://xem.hoiquan.Click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="an-vien-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/an-vien-hd/KenhCoBan",An Viên - BTV9 HD
 https://xem.hoiquan.Click/CoBan/an-vien-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="KCTV" group-title="Kênh quốc tế" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/800px-Logo_of_the_Korean_Central_Television.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/800px-Logo_of_the_Korean_Central_Television.svg.png",KCTV SD
-https://tv.nknews.org/tvdash/stream.mpd
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/EBU_Colorbars.svg/250px-EBU_Colorbars.svg.png
 #EXTINF:-1 tvg-id="box-hits" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/box-hits/KenhCoBan",Box Hits
 https://xem.hoiquan.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="camera" group-title="Kênh Camera" group-logo="https://cdn.tgdd.vn/2020/04/GameApp/yoosee1-200x200.jpg" tvg-logo="https://cdn.tgdd.vn/2020/04/GameApp/yoosee1-200x200.jpg",Camera
@@ -1426,5 +1426,6 @@ https://xem.hoiquan.Click/HuuVinh/MaxSport4HD/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="SporTV2" group-title="🔁 HuuVinh.THỂ THAO QUỐC TẾ" tvg-logo="https://xem.hoiquan.click/Logo/SporTV2/DoiTac-HuuVinh",SporTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://xem.hoiquan.Click/HuuVinh/SporTV2/DoiTacDongGop.m3u8
+
 
 
